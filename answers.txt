@@ -1,0 +1,7 @@
+1.what is a git ignore file and what should it include for a java project?
+
+2.what does fast-forward in git mean?
+
+3.why should you different branch?
+
+4.In a project how many remote Git repositories do you usually have?A:we can have multiple remote repositories but when it comes to project we prefer single repository.
